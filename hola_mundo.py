@@ -1,0 +1,6 @@
+print("Hola mundo")
+print("¡Bienvenido a Python!")
+print("¡Vamos a programar juntos!")
+print("¡La programación es divertida!")
+print("¡Sigue practicando y mejorando tus habilidades!")
+print("¡Hasta luego!")
